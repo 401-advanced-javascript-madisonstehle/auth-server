@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/madisonstehle/auth-server/pull/1)
 - [ci/cd]() (GitHub Actions)
 - [deployed site]()
 
