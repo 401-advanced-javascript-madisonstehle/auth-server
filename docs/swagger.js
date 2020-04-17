@@ -4,8 +4,8 @@ const generateSwagger = (app) => {
   let options = {
       swaggerDefinition: {
           info: {
-              description: 'Simple express-server using CRUD operations',
-              title: 'express-server',
+              description: 'Simple authentication app',
+              title: 'auth-server',
               version: '1.0.0',
           },
           host: 'localhost:3000',

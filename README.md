@@ -8,8 +8,9 @@
 - [ci/cd]() (GitHub Actions)
 - [deployed site]()
 
-### Documentation
+#### Documentation
 
+- `node ./docs/swagger.js`: [browser link]()
 
 ### Setup
 
