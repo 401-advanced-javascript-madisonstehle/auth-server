@@ -1,2 +1,24 @@
-# auth-server
+# LAB - Class 10
+## Authorization Server
+### Author: Madison Stehle
+
 Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
+
+### Links and Resources
+
+- [submission PR](https://github.com/madisonstehle/auth-server/pull/1)
+- [ci/cd](https://github.com/madisonstehle/auth-server/actions) (GitHub Actions)
+- [deployed site]()
+
+#### Documentation
+
+- `node ./docs/swagger.js`: [browser link]()
+
+### Setup
+
+- `npm start` or `node index.js` to start the application
+
+#### Tests
+
+- Unit Test: `npm test`
+- Lint Test: `npm run lint`
