@@ -2,6 +2,8 @@
 ## Authorization Server
 ### Author: Madison Stehle
 
+Deploy an Express server that implements Basic Authentication, with signup and signin capabilities, using a Mongo database for storage.
+
 ### Links and Resources
 
 - [submission PR](https://github.com/madisonstehle/auth-server/pull/1)
@@ -20,9 +22,3 @@
 
 - Unit Test: `npm test`
 - Lint Test: `npm run lint`
-
-#### UML
-
-Link to an image of the UML for your application and response to events
-
-## Credits
