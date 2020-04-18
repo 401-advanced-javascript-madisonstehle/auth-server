@@ -8,11 +8,11 @@ Deploy an Express server that implements Basic Authentication, with signup and s
 
 - [submission PR](https://github.com/madisonstehle/auth-server/pull/1)
 - [ci/cd](https://github.com/madisonstehle/auth-server/actions) (GitHub Actions)
-- [deployed site]()
+- [deployed site](https://madisonstehle-401n16-lab10.herokuapp.com/)
 
 #### Documentation
 
-- `node ./docs/swagger.js`: [browser link]()
+- `node ./docs/swagger.js`: [browser link](https://madisonstehle-401n16-lab10.herokuapp.com/api-docs)
 
 ### Setup
 
