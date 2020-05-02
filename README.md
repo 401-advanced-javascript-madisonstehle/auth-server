@@ -6,7 +6,7 @@ Deploy an Express server that implements Basic and Bearer Authentication, with s
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/madisonstehle/auth-server/pull/4)
 - [ci/cd](https://github.com/madisonstehle/auth-server/actions) (GitHub Actions)
 - [deployed site](https://madisonstehle-401n16-lab10.herokuapp.com/)
 
